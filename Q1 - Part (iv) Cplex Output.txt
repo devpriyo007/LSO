@@ -1,0 +1,2919 @@
+
+C:\Users\Devpriyo\Documents\Visual Studio 2013\Projects\ConsoleApplication1\x64\Debug>ConsoleApplication1.exe
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Tried aggregator 1 time.
+LP Presolve eliminated 13 rows and 13 columns.
+All rows and columns eliminated.
+Presolve time = 0.00 sec. (0.00 ticks)
+
+Using 92.5 rolls
+
+  Cut0 = 5.5
+  Cut1 = 8.33333
+  Cut2 = 4
+  Cut3 = 4.66667
+  Cut4 = 6
+  Cut5 = 9
+  Cut6 = 10
+  Cut7 = 5
+  Cut8 = 6
+  Cut9 = 7
+  Cut10 = 8
+  Cut11 = 9
+  Cut12 = 10
+
+  Fill0 = 0.25
+  Fill1 = 0.333333
+  Fill2 = 0.333333
+  Fill3 = 0.333333
+  Fill4 = 0.333333
+  Fill5 = 0.5
+  Fill6 = 0.5
+  Fill7 = 0.5
+  Fill8 = 0.5
+  Fill9 = 0.5
+  Fill10 = 0.5
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Found incumbent of value 1.000000 after 0.00 sec. (0.00 ticks)
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            1.0000      -12.0000              ---
+      0     0       -0.4767     1        1.0000       -0.4767        1  147.67%
+*     0+    0                           -0.3333       -0.4767            43.01%
+      0     0        cutoff             -0.3333                      2    0.00%
+Elapsed time = 0.09 sec. (0.09 ticks, tree = 0.01 MB, solutions = 2)
+
+Mixed integer rounding cuts applied:  1
+
+Root node processing (before b&c):
+  Real time             =    0.09 sec. (0.09 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.09 sec. (0.09 ticks)
+
+Reduced cost is -0.333333
+
+  Use0 = 0
+  Use1 = 1
+  Use2 = 0
+  Use3 = 0
+  Use4 = 0
+  Use5 = 2
+  Use6 = 0
+  Use7 = 0
+  Use8 = 0
+  Use9 = 0
+  Use10 = 0
+  Use11 = 0
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            89.500000
+
+Using 89.5 rolls
+
+  Cut0 = 5.5
+  Cut1 = 5.33333
+  Cut2 = 4
+  Cut3 = 4.66667
+  Cut4 = 6
+  Cut5 = 0
+  Cut6 = 10
+  Cut7 = 5
+  Cut8 = 6
+  Cut9 = 7
+  Cut10 = 8
+  Cut11 = 9
+  Cut12 = 10
+  Cut13 = 9
+
+  Fill0 = 0.25
+  Fill1 = 0.333333
+  Fill2 = 0.333333
+  Fill3 = 0.333333
+  Fill4 = 0.333333
+  Fill5 = 0.333333
+  Fill6 = 0.5
+  Fill7 = 0.5
+  Fill8 = 0.5
+  Fill9 = 0.5
+  Fill10 = 0.5
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+2 of 2 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 0.0000.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.01 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000      -11.6667              ---
+      0     0       -0.4350     1        0.0000       -0.4350        1     ---
+      0     0       -0.3816     1        0.0000    MIRcuts: 1        2     ---
+*     0+    0                           -0.3333       -0.3816            14.47%
+      0     0        cutoff             -0.3333       -0.3816        2   14.47%
+Elapsed time = 0.14 sec. (0.09 ticks, tree = 0.01 MB, solutions = 2)
+
+Mixed integer rounding cuts applied:  1
+
+Root node processing (before b&c):
+  Real time             =    0.14 sec. (0.09 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.14 sec. (0.09 ticks)
+
+Reduced cost is -0.333333
+
+  Use0 = 0
+  Use1 = 1
+  Use2 = 0
+  Use3 = 0
+  Use4 = 0
+  Use5 = 0
+  Use6 = 2
+  Use7 = 0
+  Use8 = 0
+  Use9 = 0
+  Use10 = 0
+  Use11 = 0
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            86.166667
+
+Using 86.1667 rolls
+
+  Cut0 = 5.5
+  Cut1 = 2
+  Cut2 = 4
+  Cut3 = 4.66667
+  Cut4 = 6
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 5
+  Cut8 = 6
+  Cut9 = 7
+  Cut10 = 8
+  Cut11 = 9
+  Cut12 = 10
+  Cut13 = 9
+  Cut14 = 10
+
+  Fill0 = 0.25
+  Fill1 = 0.333333
+  Fill2 = 0.333333
+  Fill3 = 0.333333
+  Fill4 = 0.333333
+  Fill5 = 0.333333
+  Fill6 = 0.333333
+  Fill7 = 0.5
+  Fill8 = 0.5
+  Fill9 = 0.5
+  Fill10 = 0.5
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+2 of 2 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 0.0000.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.03 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000      -11.3333              ---
+      0     0       -0.3902     1        0.0000       -0.3902        1     ---
+      0     0       -0.3509     1        0.0000    MIRcuts: 1        2     ---
+*     0+    0                           -0.3333       -0.3509             5.26%
+      0     0        cutoff             -0.3333       -0.3509        2    5.26%
+Elapsed time = 0.09 sec. (0.09 ticks, tree = 0.01 MB, solutions = 2)
+
+Mixed integer rounding cuts applied:  1
+
+Root node processing (before b&c):
+  Real time             =    0.11 sec. (0.09 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.11 sec. (0.09 ticks)
+
+Reduced cost is -0.333333
+
+  Use0 = 0
+  Use1 = 1
+  Use2 = 0
+  Use3 = 0
+  Use4 = 0
+  Use5 = 0
+  Use6 = 0
+  Use7 = 2
+  Use8 = 0
+  Use9 = 0
+  Use10 = 0
+  Use11 = 0
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            84.500000
+
+Using 84.5 rolls
+
+  Cut0 = 5.5
+  Cut1 = 0.333333
+  Cut2 = 4
+  Cut3 = 4.66667
+  Cut4 = 6
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 6
+  Cut9 = 7
+  Cut10 = 8
+  Cut11 = 9
+  Cut12 = 10
+  Cut13 = 9
+  Cut14 = 10
+  Cut15 = 5
+
+  Fill0 = 0.25
+  Fill1 = 0.333333
+  Fill2 = 0.333333
+  Fill3 = 0.333333
+  Fill4 = 0.333333
+  Fill5 = 0.333333
+  Fill6 = 0.333333
+  Fill7 = 0.333333
+  Fill8 = 0.5
+  Fill9 = 0.5
+  Fill10 = 0.5
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+2 of 2 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 0.0000.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000      -11.0000              ---
+      0     0       -0.3571     1        0.0000       -0.3571        1     ---
+      0     0       -0.3272     2        0.0000    MIRcuts: 1        3     ---
+      0     0       -0.3079     4        0.0000    MIRcuts: 2        5     ---
+*     0+    0                           -0.1667       -0.3079            84.75%
+*     0+    0                           -0.2500       -0.3079            23.17%
+      0     0        cutoff             -0.2500       -0.2500        5    0.00%
+Elapsed time = 0.11 sec. (0.15 ticks, tree = 0.01 MB, solutions = 3)
+
+Mixed integer rounding cuts applied:  3
+
+Root node processing (before b&c):
+  Real time             =    0.11 sec. (0.15 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.11 sec. (0.15 ticks)
+
+Reduced cost is -0.25
+
+  Use0 = 1
+  Use1 = 0
+  Use2 = 0
+  Use3 = 0
+  Use4 = 0
+  Use5 = 0
+  Use6 = 0
+  Use7 = 0
+  Use8 = 0
+  Use9 = 2
+  Use10 = 0
+  Use11 = 0
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            82.750000
+
+Using 82.75 rolls
+
+  Cut0 = 3.75
+  Cut1 = 0.333333
+  Cut2 = 4
+  Cut3 = 4.66667
+  Cut4 = 6
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 6
+  Cut9 = 0
+  Cut10 = 8
+  Cut11 = 9
+  Cut12 = 10
+  Cut13 = 9
+  Cut14 = 10
+  Cut15 = 5
+  Cut16 = 7
+
+  Fill0 = 0.25
+  Fill1 = 0.333333
+  Fill2 = 0.333333
+  Fill3 = 0.333333
+  Fill4 = 0.333333
+  Fill5 = 0.333333
+  Fill6 = 0.333333
+  Fill7 = 0.333333
+  Fill8 = 0.5
+  Fill9 = 0.375
+  Fill10 = 0.5
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+3 of 3 MIP starts provided solutions.
+MIP start 'm2' defined initial solution with objective -0.1667.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                           -0.1667      -10.7500              ---
+      0     0       -0.3505     2       -0.1667       -0.3505        1  110.28%
+      0     0       -0.3273     2       -0.1667    MIRcuts: 1        3   96.39%
+      0     0       -0.3010     5       -0.1667    MIRcuts: 2        5   80.59%
+      0     0       -0.2825     4       -0.1667    MIRcuts: 1        7   69.48%
+      0     0       -0.2568     3       -0.1667   ZeroHalf: 1        9   54.10%
+*     0+    0                           -0.2500       -0.2568             2.73%
+      0     0        cutoff             -0.2500       -0.2500        9    0.00%
+Elapsed time = 0.11 sec. (0.19 ticks, tree = 0.01 MB, solutions = 3)
+
+Mixed integer rounding cuts applied:  1
+Zero-half cuts applied:  1
+
+Root node processing (before b&c):
+  Real time             =    0.11 sec. (0.19 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.11 sec. (0.19 ticks)
+
+Reduced cost is -0.25
+
+  Use0 = 1
+  Use1 = 0
+  Use2 = 0
+  Use3 = 0
+  Use4 = 0
+  Use5 = 0
+  Use6 = 0
+  Use7 = 0
+  Use8 = 2
+  Use9 = 0
+  Use10 = 0
+  Use11 = 0
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            81.250000
+
+Using 81.25 rolls
+
+  Cut0 = 2.25
+  Cut1 = 0.333333
+  Cut2 = 4
+  Cut3 = 4.66667
+  Cut4 = 6
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 8
+  Cut11 = 9
+  Cut12 = 10
+  Cut13 = 9
+  Cut14 = 10
+  Cut15 = 5
+  Cut16 = 7
+  Cut17 = 6
+
+  Fill0 = 0.25
+  Fill1 = 0.333333
+  Fill2 = 0.333333
+  Fill3 = 0.333333
+  Fill4 = 0.333333
+  Fill5 = 0.333333
+  Fill6 = 0.333333
+  Fill7 = 0.333333
+  Fill8 = 0.375
+  Fill9 = 0.375
+  Fill10 = 0.5
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+3 of 3 MIP starts provided solutions.
+MIP start 'm2' defined initial solution with objective -0.0417.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.01 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                           -0.0417      -10.5000              ---
+      0     0       -0.3070     2       -0.0417       -0.3070        1  636.74%
+      0     0       -0.2798     3       -0.0417    MIRcuts: 1        5  571.40%
+*     0+    0                           -0.1667       -0.2798            67.85%
+      0     0       -0.2783     4       -0.1667    MIRcuts: 1        6   66.99%
+
+Repeating presolve.
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 7 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 8 columns, and 10 nonzeros.
+Reduced MIP has 2 binaries, 6 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.01 ticks)
+Probing time = 0.00 sec. (0.00 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 8 columns, and 10 nonzeros.
+Reduced MIP has 2 binaries, 6 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+Represolve time = 0.03 sec. (0.03 ticks)
+Probing time = 0.00 sec. (0.00 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                           -0.1667       -0.2632            57.94%
+      0     0       -0.2783     4       -0.1667       -0.2632       11   57.94%
+      0     0       -0.2698     4       -0.1667    MIRcuts: 1       14   57.94%
+      0     0        cutoff             -0.1667                     17    0.00%
+Elapsed time = 0.19 sec. (0.25 ticks, tree = 0.01 MB, solutions = 3)
+
+Zero-half cuts applied:  1
+Gomory fractional cuts applied:  1
+
+Root node processing (before b&c):
+  Real time             =    0.19 sec. (0.25 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.19 sec. (0.25 ticks)
+
+Reduced cost is -0.166667
+
+  Use0 = 0
+  Use1 = 2
+  Use2 = 0
+  Use3 = 0
+  Use4 = 0
+  Use5 = 0
+  Use6 = 0
+  Use7 = 0
+  Use8 = 0
+  Use9 = 0
+  Use10 = 1
+  Use11 = 0
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            81.166667
+
+Using 81.1667 rolls
+
+  Cut0 = 2.25
+  Cut1 = 0
+  Cut2 = 4
+  Cut3 = 4.66667
+  Cut4 = 6
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 7.75
+  Cut11 = 9
+  Cut12 = 10
+  Cut13 = 9
+  Cut14 = 10
+  Cut15 = 5
+  Cut16 = 7
+  Cut17 = 6
+  Cut18 = 0.5
+
+  Fill0 = 0.25
+  Fill1 = 0.25
+  Fill2 = 0.333333
+  Fill3 = 0.333333
+  Fill4 = 0.333333
+  Fill5 = 0.375
+  Fill6 = 0.375
+  Fill7 = 0.375
+  Fill8 = 0.375
+  Fill9 = 0.375
+  Fill10 = 0.5
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+3 of 3 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 0.0000.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000      -10.5000              ---
+      0     0       -0.3070     2        0.0000       -0.3070        1     ---
+      0     0       -0.2647     3        0.0000    MIRcuts: 1        5     ---
+*     0+    0                           -0.2083       -0.2647            27.07%
+      0     0        cutoff             -0.2083                      5    0.00%
+Elapsed time = 0.09 sec. (0.11 ticks, tree = 0.01 MB, solutions = 3)
+
+Mixed integer rounding cuts applied:  1
+
+Root node processing (before b&c):
+  Real time             =    0.11 sec. (0.11 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.11 sec. (0.11 ticks)
+
+Reduced cost is -0.208333
+
+  Use0 = 0
+  Use1 = 0
+  Use2 = 1
+  Use3 = 0
+  Use4 = 0
+  Use5 = 1
+  Use6 = 0
+  Use7 = 0
+  Use8 = 0
+  Use9 = 0
+  Use10 = 1
+  Use11 = 0
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            78.666667
+
+Using 78.6667 rolls
+
+  Cut0 = 2.25
+  Cut1 = 0
+  Cut2 = 0
+  Cut3 = 4.66667
+  Cut4 = 6
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0.25
+  Cut11 = 9
+  Cut12 = 10
+  Cut13 = 3
+  Cut14 = 10
+  Cut15 = 5
+  Cut16 = 7
+  Cut17 = 6
+  Cut18 = 3.5
+  Cut19 = 12
+
+  Fill0 = 0.25
+  Fill1 = 0.25
+  Fill2 = 0.125
+  Fill3 = 0.333333
+  Fill4 = 0.333333
+  Fill5 = 0.375
+  Fill6 = 0.375
+  Fill7 = 0.375
+  Fill8 = 0.375
+  Fill9 = 0.375
+  Fill10 = 0.5
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+3 of 3 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 0.0000.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000       -9.8750              ---
+      0     0       -0.3070     2        0.0000       -0.3070        1     ---
+      0     0       -0.2304     3        0.0000    MIRcuts: 1        5     ---
+      0     0       -0.2139     1        0.0000      Fract: 1        8     ---
+      0     0       -0.2139     3        0.0000    MIRcuts: 1        9     ---
+      0     0       -0.2139     3        0.0000    MIRcuts: 1       10     ---
+*     0+    0                           -0.1250       -0.2139            71.08%
+*     0+    0                           -0.1667       -0.2139            28.31%
+      0     0        cutoff             -0.1667       -0.1667       10    0.00%
+Elapsed time = 0.13 sec. (0.24 ticks, tree = 0.01 MB, solutions = 4)
+
+Mixed integer rounding cuts applied:  2
+Gomory fractional cuts applied:  1
+
+Root node processing (before b&c):
+  Real time             =    0.13 sec. (0.24 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.13 sec. (0.24 ticks)
+
+Reduced cost is -0.166667
+
+  Use0 = 0
+  Use1 = 0
+  Use2 = 0
+  Use3 = 2
+  Use4 = 0
+  Use5 = 0
+  Use6 = 0
+  Use7 = 0
+  Use8 = 0
+  Use9 = 0
+  Use10 = 1
+  Use11 = 0
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            78.583333
+
+Using 78.5833 rolls
+
+  Cut0 = 2.25
+  Cut1 = 0
+  Cut2 = 0
+  Cut3 = 4.33333
+  Cut4 = 6
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0
+  Cut11 = 9
+  Cut12 = 10
+  Cut13 = 3
+  Cut14 = 10
+  Cut15 = 5
+  Cut16 = 7
+  Cut17 = 6
+  Cut18 = 3.5
+  Cut19 = 12
+  Cut20 = 0.5
+
+  Fill0 = 0.25
+  Fill1 = 0.333333
+  Fill2 = 0.333333
+  Fill3 = 0.333333
+  Fill4 = 0.333333
+  Fill5 = 0.333333
+  Fill6 = 0.333333
+  Fill7 = 0.333333
+  Fill8 = 0.375
+  Fill9 = 0.375
+  Fill10 = 0.333333
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+4 of 4 MIP starts provided solutions.
+MIP start 'm3' defined initial solution with objective -0.0833.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.03 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                           -0.0833      -10.1667              ---
+      0     0       -0.2955     1       -0.0833       -0.2955        1  254.55%
+      0     0       -0.2760     3       -0.0833    MIRcuts: 1        3  231.17%
+*     0+    0                           -0.1667       -0.2760            65.59%
+      0     0       -0.2654     3       -0.1667    MIRcuts: 1        5   59.25%
+      0     0        cutoff             -0.1667       -0.1667        5    0.00%
+Elapsed time = 0.09 sec. (0.13 ticks, tree = 0.01 MB, solutions = 4)
+
+Mixed integer rounding cuts applied:  2
+
+Root node processing (before b&c):
+  Real time             =    0.11 sec. (0.13 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.11 sec. (0.13 ticks)
+
+Reduced cost is -0.166667
+
+  Use0 = 0
+  Use1 = 2
+  Use2 = 0
+  Use3 = 0
+  Use4 = 0
+  Use5 = 0
+  Use6 = 0
+  Use7 = 0
+  Use8 = 0
+  Use9 = 0
+  Use10 = 0
+  Use11 = 1
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            78.000000
+
+Using 78 rolls
+
+  Cut0 = 2.25
+  Cut1 = 0
+  Cut2 = 0
+  Cut3 = 2
+  Cut4 = 6
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0
+  Cut11 = 7.25
+  Cut12 = 10
+  Cut13 = 3
+  Cut14 = 10
+  Cut15 = 5
+  Cut16 = 7
+  Cut17 = 6
+  Cut18 = 0
+  Cut19 = 12
+  Cut20 = 4
+  Cut21 = 3.5
+
+  Fill0 = 0.25
+  Fill1 = 0.25
+  Fill2 = 0.291667
+  Fill3 = 0.333333
+  Fill4 = 0.333333
+  Fill5 = 0.375
+  Fill6 = 0.375
+  Fill7 = 0.375
+  Fill8 = 0.375
+  Fill9 = 0.375
+  Fill10 = 0.333333
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+4 of 4 MIP starts provided solutions.
+MIP start 'm3' defined initial solution with objective -0.1250.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                           -0.1250      -10.0417              ---
+      0     0       -0.2955     1       -0.1250       -0.2955        1  136.36%
+      0     0       -0.2248     3       -0.1250    MIRcuts: 1        3   79.81%
+      0     0       -0.2075     3       -0.1250    MIRcuts: 1        6   66.03%
+*     0+    0                           -0.1667       -0.2075            24.52%
+      0     0        cutoff             -0.1667                      6    0.00%
+Elapsed time = 0.11 sec. (0.12 ticks, tree = 0.01 MB, solutions = 4)
+
+Mixed integer rounding cuts applied:  2
+
+Root node processing (before b&c):
+  Real time             =    0.13 sec. (0.13 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.13 sec. (0.13 ticks)
+
+Reduced cost is -0.166667
+
+  Use0 = 0
+  Use1 = 0
+  Use2 = 0
+  Use3 = 2
+  Use4 = 0
+  Use5 = 0
+  Use6 = 0
+  Use7 = 0
+  Use8 = 0
+  Use9 = 0
+  Use10 = 0
+  Use11 = 1
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            77.500000
+
+Using 77.5 rolls
+
+  Cut0 = 2.25
+  Cut1 = 0
+  Cut2 = 0
+  Cut3 = 0
+  Cut4 = 6
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0
+  Cut11 = 5.75
+  Cut12 = 10
+  Cut13 = 3
+  Cut14 = 10
+  Cut15 = 5
+  Cut16 = 7
+  Cut17 = 6
+  Cut18 = 0
+  Cut19 = 12
+  Cut20 = 4
+  Cut21 = 3.5
+  Cut22 = 3
+
+  Fill0 = 0.25
+  Fill1 = 0.25
+  Fill2 = 0.125
+  Fill3 = 0.25
+  Fill4 = 0.333333
+  Fill5 = 0.375
+  Fill6 = 0.375
+  Fill7 = 0.375
+  Fill8 = 0.375
+  Fill9 = 0.375
+  Fill10 = 0.5
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+4 of 4 MIP starts provided solutions.
+MIP start 'm3' defined initial solution with objective -0.1250.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                           -0.1250       -9.6250              ---
+      0     0       -0.3070     2       -0.1250       -0.3070        1  145.58%
+      0     0       -0.2304     3       -0.1250    MIRcuts: 1        5   84.31%
+      0     0       -0.2035     3       -0.1250    MIRcuts: 1       10   62.81%
+      0     0        cutoff             -0.1250       -0.1250       10    0.00%
+Elapsed time = 0.11 sec. (0.14 ticks, tree = 0.01 MB, solutions = 3)
+
+Mixed integer rounding cuts applied:  2
+
+Root node processing (before b&c):
+  Real time             =    0.13 sec. (0.14 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.13 sec. (0.14 ticks)
+
+Reduced cost is -0.125
+
+  Use0 = 1
+  Use1 = 0
+  Use2 = 0
+  Use3 = 0
+  Use4 = 0
+  Use5 = 0
+  Use6 = 1
+  Use7 = 0
+  Use8 = 0
+  Use9 = 0
+  Use10 = 0
+  Use11 = 0
+  Use12 = 1
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            76.375000
+
+Using 76.375 rolls
+
+  Cut0 = 0
+  Cut1 = 0
+  Cut2 = 0
+  Cut3 = 0
+  Cut4 = 6
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0
+  Cut11 = 4.625
+  Cut12 = 5.5
+  Cut13 = 3
+  Cut14 = 5.5
+  Cut15 = 5
+  Cut16 = 7
+  Cut17 = 6
+  Cut18 = 0
+  Cut19 = 12
+  Cut20 = 4
+  Cut21 = 5.75
+  Cut22 = 3
+  Cut23 = 9
+
+  Fill0 = 0.125
+  Fill1 = 0.25
+  Fill2 = 0.125
+  Fill3 = 0.25
+  Fill4 = 0.333333
+  Fill5 = 0.375
+  Fill6 = 0.375
+  Fill7 = 0.375
+  Fill8 = 0.4375
+  Fill9 = 0.4375
+  Fill10 = 0.5
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+3 of 3 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 0.0000.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000       -9.3750              ---
+      0     0       -0.3070     2        0.0000       -0.3070        1     ---
+      0     0       -0.1702     3        0.0000    MIRcuts: 1        5     ---
+      0     0       -0.1562     5        0.0000    MIRcuts: 2        7     ---
+*     0+    0                           -0.1250       -0.1562            24.98%
+      0     0        cutoff             -0.1250                      7    0.00%
+Elapsed time = 0.09 sec. (0.15 ticks, tree = 0.01 MB, solutions = 3)
+
+Mixed integer rounding cuts applied:  3
+
+Root node processing (before b&c):
+  Real time             =    0.11 sec. (0.15 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.11 sec. (0.15 ticks)
+
+Reduced cost is -0.125
+
+  Use0 = 0
+  Use1 = 1
+  Use2 = 0
+  Use3 = 0
+  Use4 = 0
+  Use5 = 1
+  Use6 = 0
+  Use7 = 0
+  Use8 = 0
+  Use9 = 0
+  Use10 = 1
+  Use11 = 0
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            75.875000
+
+Using 75.875 rolls
+
+  Cut0 = 0
+  Cut1 = 0
+  Cut2 = 0
+  Cut3 = 0
+  Cut4 = 6
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0
+  Cut11 = 3.125
+  Cut12 = 5.5
+  Cut13 = 1
+  Cut14 = 5.5
+  Cut15 = 5
+  Cut16 = 7
+  Cut17 = 6
+  Cut18 = 0
+  Cut19 = 12
+  Cut20 = 0
+  Cut21 = 4.75
+  Cut22 = 7
+  Cut23 = 9
+  Cut24 = 4
+
+  Fill0 = 0.125
+  Fill1 = 0.25
+  Fill2 = 0.25
+  Fill3 = 0.25
+  Fill4 = 0.333333
+  Fill5 = 0.375
+  Fill6 = 0.375
+  Fill7 = 0.375
+  Fill8 = 0.4375
+  Fill9 = 0.4375
+  Fill10 = 0.375
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+3 of 3 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 0.0000.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.01 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000       -9.5000              ---
+      0     0       -0.2955     1        0.0000       -0.2955        1     ---
+      0     0       -0.1670     3        0.0000    MIRcuts: 1        3     ---
+      0     0       -0.1629     4        0.0000    MIRcuts: 1        4     ---
+      0     0       -0.1530     2        0.0000      Fract: 1        6     ---
+*     0+    0                           -0.1250       -0.1530            22.44%
+      0     0        cutoff             -0.1250       -0.1250        6    0.00%
+Elapsed time = 0.11 sec. (0.17 ticks, tree = 0.01 MB, solutions = 3)
+
+Mixed integer rounding cuts applied:  1
+Gomory fractional cuts applied:  1
+
+Root node processing (before b&c):
+  Real time             =    0.13 sec. (0.17 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.13 sec. (0.17 ticks)
+
+Reduced cost is -0.125
+
+  Use0 = 0
+  Use1 = 1
+  Use2 = 0
+  Use3 = 0
+  Use4 = 0
+  Use5 = 1
+  Use6 = 0
+  Use7 = 0
+  Use8 = 0
+  Use9 = 0
+  Use10 = 0
+  Use11 = 1
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            75.625000
+
+Using 75.625 rolls
+
+  Cut0 = 0
+  Cut1 = 0
+  Cut2 = 0
+  Cut3 = 0
+  Cut4 = 6
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0
+  Cut11 = 2.375
+  Cut12 = 5.5
+  Cut13 = 0
+  Cut14 = 5.5
+  Cut15 = 5
+  Cut16 = 7
+  Cut17 = 6
+  Cut18 = 0
+  Cut19 = 12
+  Cut20 = 0
+  Cut21 = 4.25
+  Cut22 = 7
+  Cut23 = 9
+  Cut24 = 4
+  Cut25 = 2
+
+  Fill0 = 0.125
+  Fill1 = 0.25
+  Fill2 = 0.25
+  Fill3 = 0.25
+  Fill4 = 0.333333
+  Fill5 = 0.25
+  Fill6 = 0.375
+  Fill7 = 0.375
+  Fill8 = 0.4375
+  Fill9 = 0.4375
+  Fill10 = 0.5
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+3 of 3 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 0.0000.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.03 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000       -9.5000              ---
+      0     0       -0.3070     2        0.0000       -0.3070        1     ---
+      0     0       -0.1702     3        0.0000    MIRcuts: 1        5     ---
+      0     0       -0.1592     5        0.0000    MIRcuts: 2        7     ---
+      0     0       -0.1297     2        0.0000      Fract: 1       10     ---
+*     0+    0                           -0.1250       -0.1297             3.73%
+      0     0        cutoff             -0.1250       -0.1250       10    0.00%
+Elapsed time = 0.11 sec. (0.15 ticks, tree = 0.01 MB, solutions = 3)
+
+Mixed integer rounding cuts applied:  1
+Gomory fractional cuts applied:  1
+
+Root node processing (before b&c):
+  Real time             =    0.11 sec. (0.16 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.11 sec. (0.16 ticks)
+
+Reduced cost is -0.125
+
+  Use0 = 0
+  Use1 = 1
+  Use2 = 0
+  Use3 = 0
+  Use4 = 0
+  Use5 = -0
+  Use6 = 1
+  Use7 = 0
+  Use8 = 0
+  Use9 = 0
+  Use10 = 1
+  Use11 = 0
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            75.125000
+
+Using 74.9444 rolls
+
+  Cut0 = 0
+  Cut1 = 0
+  Cut2 = 1.44444
+  Cut3 = 0
+  Cut4 = 6
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0
+  Cut11 = 0.333333
+  Cut12 = 5.5
+  Cut13 = 0
+  Cut14 = 1.33333
+  Cut15 = 5
+  Cut16 = 7
+  Cut17 = 6
+  Cut18 = 0
+  Cut19 = 7.66667
+  Cut20 = 0
+  Cut21 = 0
+  Cut22 = 7
+  Cut23 = 9
+  Cut24 = 0
+  Cut25 = 10.3333
+  Cut26 = 8.33333
+
+  Fill0 = 0.111111
+  Fill1 = 0.222222
+  Fill2 = 0.333333
+  Fill3 = 0.25
+  Fill4 = 0.333333
+  Fill5 = 0.277778
+  Fill6 = 0.388889
+  Fill7 = 0.388889
+  Fill8 = 0.444444
+  Fill9 = 0.444444
+  Fill10 = 0.388889
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+3 of 3 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 0.0000.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000       -9.5278              ---
+      0     0       -0.2955     1        0.0000       -0.2955        2     ---
+      0     0       -0.2615     3        0.0000    MIRcuts: 1        4     ---
+*     0+    0                           -0.1667       -0.2615            56.92%
+      0     0       -0.2422     2       -0.1667      Fract: 1        6   45.29%
+
+Repeating presolve.
+Tried aggregator 2 times.
+MIP Presolve eliminated 0 rows and 6 columns.
+Aggregator did 1 substitutions.
+Reduced MIP has 1 rows, 7 columns, and 7 nonzeros.
+Reduced MIP has 3 binaries, 4 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.01 ticks)
+Probing time = 0.00 sec. (0.00 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 1 rows, 7 columns, and 7 nonzeros.
+Reduced MIP has 3 binaries, 4 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.00 ticks)
+Represolve time = 0.02 sec. (0.03 ticks)
+Probing time = 0.00 sec. (0.00 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                           -0.1667       -0.2165            29.88%
+      0     0       -0.2422     2       -0.1667       -0.2165        9   29.88%
+
+Gomory fractional cuts applied:  1
+
+Root node processing (before b&c):
+  Real time             =    0.19 sec. (0.18 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.19 sec. (0.18 ticks)
+
+Reduced cost is -0.166667
+
+  Use0 = 0
+  Use1 = 0
+  Use2 = 2
+  Use3 = 0
+  Use4 = 0
+  Use5 = 0
+  Use6 = 0
+  Use7 = 0
+  Use8 = 0
+  Use9 = 0
+  Use10 = 0
+  Use11 = 1
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            74.833333
+
+Using 74.8333 rolls
+
+  Cut0 = 0
+  Cut1 = 0
+  Cut2 = 1
+  Cut3 = 0
+  Cut4 = 6
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0
+  Cut11 = 0
+  Cut12 = 5.5
+  Cut13 = 0
+  Cut14 = 1.33333
+  Cut15 = 5
+  Cut16 = 7
+  Cut17 = 6
+  Cut18 = 0
+  Cut19 = 7.66667
+  Cut20 = 0
+  Cut21 = 0
+  Cut22 = 7
+  Cut23 = 9
+  Cut24 = 0
+  Cut25 = 10.3333
+  Cut26 = 8.33333
+  Cut27 = 0.666667
+
+  Fill0 = 0.166667
+  Fill1 = 0.333333
+  Fill2 = 0.333333
+  Fill3 = 0.333333
+  Fill4 = 0.333333
+  Fill5 = 0.333333
+  Fill6 = 0.333333
+  Fill7 = 0.333333
+  Fill8 = 0.416667
+  Fill9 = 0.416667
+  Fill10 = 0.333333
+  Fill11 = 0.333333
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+3 of 3 MIP starts provided solutions.
+MIP start 'm2' defined initial solution with objective -0.0833.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.01 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                           -0.0833       -9.6667              ---
+      0     0       -0.2632     1       -0.0833       -0.2632        1  215.79%
+*     0+    0                           -0.1667       -0.2632            57.89%
+      0     0        cutoff             -0.1667                      1    0.00%
+Elapsed time = 0.09 sec. (0.08 ticks, tree = 0.01 MB, solutions = 3)
+
+Root node processing (before b&c):
+  Real time             =    0.11 sec. (0.08 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.11 sec. (0.08 ticks)
+
+Reduced cost is -0.166667
+
+  Use0 = 0
+  Use1 = 1
+  Use2 = 1
+  Use3 = 0
+  Use4 = 0
+  Use5 = 0
+  Use6 = 0
+  Use7 = 0
+  Use8 = 0
+  Use9 = 0
+  Use10 = 0
+  Use11 = 0
+  Use12 = 1
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            74.666667
+
+Using 74.6667 rolls
+
+  Cut0 = 0
+  Cut1 = 0
+  Cut2 = 0
+  Cut3 = 0
+  Cut4 = 6
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0
+  Cut11 = 0
+  Cut12 = 5
+  Cut13 = 0
+  Cut14 = 1.66667
+  Cut15 = 5
+  Cut16 = 7
+  Cut17 = 6
+  Cut18 = 0
+  Cut19 = 8.33333
+  Cut20 = 0
+  Cut21 = 0
+  Cut22 = 7
+  Cut23 = 9
+  Cut24 = 0
+  Cut25 = 9.66667
+  Cut26 = 7.66667
+  Cut27 = 1.33333
+  Cut28 = 1
+
+  Fill0 = 0.111111
+  Fill1 = 0.222222
+  Fill2 = 0.277778
+  Fill3 = 0.277778
+  Fill4 = 0.333333
+  Fill5 = 0.333333
+  Fill6 = 0.388889
+  Fill7 = 0.388889
+  Fill8 = 0.444444
+  Fill9 = 0.444444
+  Fill10 = 0.388889
+  Fill11 = 0.444444
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+3 of 3 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 0.0000.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000       -9.4444              ---
+      0     0       -0.2602     1        0.0000       -0.2602        1     ---
+      0     0       -0.1528     2        0.0000    MIRcuts: 1        3     ---
+*     0+    0                           -0.1111       -0.1528            37.50%
+      0     0        cutoff             -0.1111       -0.1528        3   37.50%
+Elapsed time = 0.11 sec. (0.10 ticks, tree = 0.01 MB, solutions = 3)
+
+Mixed integer rounding cuts applied:  1
+
+Root node processing (before b&c):
+  Real time             =    0.11 sec. (0.10 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.11 sec. (0.10 ticks)
+
+Reduced cost is -0.111111
+
+  Use0 = 0
+  Use1 = 0
+  Use2 = 1
+  Use3 = 0
+  Use4 = 1
+  Use5 = 0
+  Use6 = 0
+  Use7 = 0
+  Use8 = 0
+  Use9 = 0
+  Use10 = 0
+  Use11 = 0
+  Use12 = 1
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            74.333333
+
+Using 74.2222 rolls
+
+  Cut0 = 0
+  Cut1 = 0
+  Cut2 = 0
+  Cut3 = 0
+  Cut4 = 4.55556
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0
+  Cut11 = 0.333333
+  Cut12 = 3.33333
+  Cut13 = 0
+  Cut14 = 1.33333
+  Cut15 = 5
+  Cut16 = 7
+  Cut17 = 6
+  Cut18 = 0
+  Cut19 = 7.66667
+  Cut20 = 0
+  Cut21 = 0
+  Cut22 = 7
+  Cut23 = 9
+  Cut24 = 0
+  Cut25 = 10.3333
+  Cut26 = 8.33333
+  Cut27 = 0
+  Cut28 = 0
+  Cut29 = 4.33333
+
+  Fill0 = 0.0555556
+  Fill1 = 0.111111
+  Fill2 = 0.166667
+  Fill3 = 0.25
+  Fill4 = 0.333333
+  Fill5 = 0.388889
+  Fill6 = 0.444444
+  Fill7 = 0.444444
+  Fill8 = 0.472222
+  Fill9 = 0.472222
+  Fill10 = 0.444444
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+3 of 3 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 0.0000.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.01 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000       -9.1389              ---
+      0     0       -0.2995     1        0.0000       -0.2995        1     ---
+      0     0       -0.1844     2        0.0000    MIRcuts: 1        3     ---
+*     0+    0                           -0.1389       -0.1844            32.80%
+      0     0        cutoff             -0.1389                      3    0.00%
+Elapsed time = 0.11 sec. (0.10 ticks, tree = 0.01 MB, solutions = 3)
+
+Mixed integer rounding cuts applied:  1
+
+Root node processing (before b&c):
+  Real time             =    0.11 sec. (0.10 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.11 sec. (0.10 ticks)
+
+Reduced cost is -0.138889
+
+  Use0 = 0
+  Use1 = 0
+  Use2 = 0
+  Use3 = 1
+  Use4 = 0
+  Use5 = 0
+  Use6 = 2
+  Use7 = 0
+  Use8 = 0
+  Use9 = 0
+  Use10 = 0
+  Use11 = 0
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            74.083333
+
+Using 74.0833 rolls
+
+  Cut0 = 0
+  Cut1 = 0
+  Cut2 = 0
+  Cut3 = 0
+  Cut4 = 4.33333
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0
+  Cut11 = 0.25
+  Cut12 = 3
+  Cut13 = 0
+  Cut14 = 0
+  Cut15 = 5
+  Cut16 = 7
+  Cut17 = 6
+  Cut18 = 0
+  Cut19 = 7
+  Cut20 = 0
+  Cut21 = 0
+  Cut22 = 6.5
+  Cut23 = 9
+  Cut24 = 0
+  Cut25 = 11
+  Cut26 = 9
+  Cut27 = 0
+  Cut28 = 0
+  Cut29 = 5
+  Cut30 = 1
+
+  Fill0 = 0.125
+  Fill1 = 0.145833
+  Fill2 = 0.166667
+  Fill3 = 0.25
+  Fill4 = 0.333333
+  Fill5 = 0.354167
+  Fill6 = 0.375
+  Fill7 = 0.427083
+  Fill8 = 0.4375
+  Fill9 = 0.4375
+  Fill10 = 0.479167
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+3 of 3 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 0.0000.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000       -9.2083              ---
+      0     0       -0.2955     1        0.0000       -0.2955        1     ---
+      0     0       -0.1240     2        0.0000    MIRcuts: 1        3     ---
+      0     0       -0.1159     4        0.0000       Cuts: 2        5     ---
+*     0+    0                           -0.0625       -0.1159            85.45%
+      0     0       -0.1120     5       -0.0625       Cuts: 3        8   79.15%
+      0     0       -0.1071     6       -0.0625    MIRcuts: 2       13   71.35%
+      0     0       -0.0944     4       -0.0625    MIRcuts: 2       18   51.01%
+      0     0       -0.0941     5       -0.0625    MIRcuts: 1       19   50.55%
+      0     0       -0.0939     5       -0.0625   ZeroHalf: 1       20   50.28%
+      0     0       -0.0936     5       -0.0625   ZeroHalf: 1       21   49.83%
+      0     0       -0.0921     6       -0.0625    MIRcuts: 2       23   47.36%
+      0     0       -0.0916     7       -0.0625    MIRcuts: 1       24   46.63%
+      0     0       -0.0911     7       -0.0625    MIRcuts: 1       25   45.70%
+      0     0       -0.0908     7       -0.0625    MIRcuts: 1       26   45.26%
+      0     0       -0.0904     8       -0.0625   ZeroHalf: 1       27   44.65%
+      0     0       -0.0903     7       -0.0625    MIRcuts: 1       28   44.44%
+      0     0       -0.0751     4       -0.0625    MIRcuts: 1       30   20.18%
+      0     0        cutoff             -0.0625       -0.0625       30    0.00%
+Elapsed time = 0.17 sec. (0.68 ticks, tree = 0.01 MB, solutions = 3)
+
+Mixed integer rounding cuts applied:  5
+
+Root node processing (before b&c):
+  Real time             =    0.17 sec. (0.68 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.17 sec. (0.68 ticks)
+
+Reduced cost is -0.0625
+
+  Use0 = 1
+  Use1 = 0
+  Use2 = 0
+  Use3 = 0
+  Use4 = 0
+  Use5 = 0
+  Use6 = 0
+  Use7 = 0
+  Use8 = 1
+  Use9 = 0
+  Use10 = 0
+  Use11 = 1
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            74.047619
+
+Using 73.7143 rolls
+
+  Cut0 = 0
+  Cut1 = 0
+  Cut2 = 0
+  Cut3 = 0
+  Cut4 = 2
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0
+  Cut11 = 0
+  Cut12 = 2.14286
+  Cut13 = 0
+  Cut14 = 0
+  Cut15 = 5
+  Cut16 = 7
+  Cut17 = 0.714286
+  Cut18 = 0
+  Cut19 = 0
+  Cut20 = 3.42857
+  Cut21 = 0
+  Cut22 = 0
+  Cut23 = 3.71429
+  Cut24 = 10.5714
+  Cut25 = 7.42857
+  Cut26 = 2
+  Cut27 = 0
+  Cut28 = 0
+  Cut29 = 12
+  Cut30 = 7.14286
+  Cut31 = 10.5714
+
+  Fill0 = 0.142857
+  Fill1 = 0.214286
+  Fill2 = 0.166667
+  Fill3 = 0.285714
+  Fill4 = 0.333333
+  Fill5 = 0.357143
+  Fill6 = 0.357143
+  Fill7 = 0.392857
+  Fill8 = 0.428571
+  Fill9 = 0.428571
+  Fill10 = 0.428571
+  Fill11 = 0.428571
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+3 of 3 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 0.0000.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.01 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000       -9.2143              ---
+      0     0       -0.2509     1        0.0000       -0.2509        1     ---
+      0     0       -0.0798     2        0.0000    MIRcuts: 1        3     ---
+      0     0       -0.0725     2        0.0000    MIRcuts: 1        6     ---
+*     0+    0                           -0.0714       -0.0725             1.45%
+      0     0        cutoff             -0.0714       -0.0725        6    1.45%
+Elapsed time = 0.09 sec. (0.13 ticks, tree = 0.01 MB, solutions = 3)
+
+Mixed integer rounding cuts applied:  2
+
+Root node processing (before b&c):
+  Real time             =    0.09 sec. (0.13 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.09 sec. (0.13 ticks)
+
+Reduced cost is -0.0714286
+
+  Use0 = 0
+  Use1 = 1
+  Use2 = 0
+  Use3 = 0
+  Use4 = 0
+  Use5 = 1
+  Use6 = 0
+  Use7 = 0
+  Use8 = 0
+  Use9 = 0
+  Use10 = 0
+  Use11 = 0
+  Use12 = 1
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            73.625000
+
+Using 73.3333 rolls
+
+  Cut0 = 0
+  Cut1 = 0
+  Cut2 = 0
+  Cut3 = 0
+  Cut4 = 4.33333
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0
+  Cut11 = 0
+  Cut12 = 1
+  Cut13 = 0
+  Cut14 = 0
+  Cut15 = 5
+  Cut16 = 7
+  Cut17 = 0
+  Cut18 = 0
+  Cut19 = 7
+  Cut20 = 0
+  Cut21 = 0
+  Cut22 = 5
+  Cut23 = 3
+  Cut24 = 0
+  Cut25 = 1
+  Cut26 = 9
+  Cut27 = 0
+  Cut28 = 0
+  Cut29 = 5
+  Cut30 = 4
+  Cut31 = 12
+  Cut32 = 10
+
+  Fill0 = 0.125
+  Fill1 = 0.145833
+  Fill2 = 0.166667
+  Fill3 = 0.25
+  Fill4 = 0.333333
+  Fill5 = 0.354167
+  Fill6 = 0.375
+  Fill7 = 0.427083
+  Fill8 = 0.375
+  Fill9 = 0.4375
+  Fill10 = 0.479167
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+3 of 3 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 0.0000.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000       -9.0833              ---
+      0     0       -0.2955     1        0.0000       -0.2955        1     ---
+      0     0       -0.1240     2        0.0000    MIRcuts: 1        3     ---
+*     0+    0                           -0.0521       -0.1240           138.04%
+      0     0       -0.1159     4       -0.0521       Cuts: 2        5  122.54%
+      0     0       -0.1118     5       -0.0521       Cuts: 3        8  114.69%
+      0     0       -0.1071     6       -0.0521    MIRcuts: 2       10  105.64%
+      0     0       -0.0985     5       -0.0521    MIRcuts: 2       12   89.09%
+      0     0       -0.0933     5       -0.0521    MIRcuts: 2       15   79.11%
+      0     0       -0.0921     7       -0.0521       Cuts: 4       16   76.86%
+      0     0       -0.0915     7       -0.0521    MIRcuts: 1       17   75.67%
+      0     0       -0.0913     7       -0.0521    MIRcuts: 1       18   75.27%
+      0     0       -0.0906     7       -0.0521    MIRcuts: 1       19   73.94%
+      0     0       -0.0765     7       -0.0521    MIRcuts: 1       21   46.91%
+      0     0        cutoff             -0.0521       -0.0521       21    0.00%
+Elapsed time = 0.16 sec. (0.54 ticks, tree = 0.01 MB, solutions = 3)
+
+Mixed integer rounding cuts applied:  5
+
+Root node processing (before b&c):
+  Real time             =    0.17 sec. (0.54 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.17 sec. (0.54 ticks)
+
+Reduced cost is -0.0520833
+
+  Use0 = 1
+  Use1 = 0
+  Use2 = 0
+  Use3 = 0
+  Use4 = 0
+  Use5 = 0
+  Use6 = 0
+  Use7 = 1
+  Use8 = 0
+  Use9 = 0
+  Use10 = 0
+  Use11 = 0
+  Use12 = 1
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            73.177083
+
+Using 73.1771 rolls
+
+  Cut0 = 0
+  Cut1 = 0
+  Cut2 = 0
+  Cut3 = 0
+  Cut4 = 4.08333
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0
+  Cut11 = 0
+  Cut12 = 0.53125
+  Cut13 = 0
+  Cut14 = 0
+  Cut15 = 3.5
+  Cut16 = 7
+  Cut17 = 0
+  Cut18 = 0
+  Cut19 = 6.25
+  Cut20 = 0
+  Cut21 = 0
+  Cut22 = 4.4375
+  Cut23 = 0
+  Cut24 = 0
+  Cut25 = 1.5625
+  Cut26 = 9.75
+  Cut27 = 0
+  Cut28 = 0
+  Cut29 = 5.75
+  Cut30 = 5.125
+  Cut31 = 12
+  Cut32 = 10.1875
+  Cut33 = 3
+
+  Fill0 = 0.0729167
+  Fill1 = 0.145833
+  Fill2 = 0.166667
+  Fill3 = 0.25
+  Fill4 = 0.333333
+  Fill5 = 0.354167
+  Fill6 = 0.375
+  Fill7 = 0.427083
+  Fill8 = 0.427083
+  Fill9 = 0.463542
+  Fill10 = 0.479167
+  Fill11 = 0.5
+  Fill12 = 0.5
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+3 of 3 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 0.0000.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.01 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000       -9.0313              ---
+      0     0       -0.2955     1        0.0000       -0.2955        1     ---
+      0     0       -0.1202     2        0.0000    MIRcuts: 1        3     ---
+      0     0       -0.0972     5        0.0000       Cuts: 2        6     ---
+      0     0       -0.0857     7        0.0000    MIRcuts: 2        8     ---
+*     0+    0                           -0.0313       -0.0857           174.39%
+      0     0       -0.0605     5       -0.0313    MIRcuts: 2       12   93.47%
+      0     0       -0.0533     5       -0.0313    MIRcuts: 1       15   70.51%
+      0     0       -0.0530     2       -0.0313    MIRcuts: 1       16   69.70%
+*     0+    0                           -0.0417       -0.0530            27.27%
+      0     0        cutoff             -0.0417       -0.0417       16    0.00%
+Elapsed time = 0.13 sec. (0.35 ticks, tree = 0.01 MB, solutions = 4)
+
+Mixed integer rounding cuts applied:  5
+
+Root node processing (before b&c):
+  Real time             =    0.14 sec. (0.35 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.14 sec. (0.35 ticks)
+
+Reduced cost is -0.0416667
+
+  Use0 = 0
+  Use1 = 0
+  Use2 = 0
+  Use3 = 0
+  Use4 = 2
+  Use5 = 0
+  Use6 = 1
+  Use7 = 0
+  Use8 = 0
+  Use9 = 0
+  Use10 = 0
+  Use11 = 0
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            73.000000
+
+Using 72.9745 rolls
+
+  Cut0 = 0.0765306
+  Cut1 = 0
+  Cut2 = 0
+  Cut3 = 0
+  Cut4 = 0
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0
+  Cut11 = 0
+  Cut12 = 0
+  Cut13 = 0
+  Cut14 = 0
+  Cut15 = 3.65306
+  Cut16 = 7
+  Cut17 = 0
+  Cut18 = 0
+  Cut19 = 6.32653
+  Cut20 = 0
+  Cut21 = 0
+  Cut22 = 5.95918
+  Cut23 = 0
+  Cut24 = 0
+  Cut25 = 0.0408163
+  Cut26 = 9.67347
+  Cut27 = 0
+  Cut28 = 0
+  Cut29 = 5.67347
+  Cut30 = 2.08163
+  Cut31 = 12
+  Cut32 = 11.6327
+  Cut33 = 2.69388
+  Cut34 = 6.16327
+
+  Fill0 = 0.25
+  Fill1 = 0.27551
+  Fill2 = 0.285714
+  Fill3 = 0.306122
+  Fill4 = 0.326531
+  Fill5 = 0.336735
+  Fill6 = 0.346939
+  Fill7 = 0.362245
+  Fill8 = 0.362245
+  Fill9 = 0.375
+  Fill10 = 0.377551
+  Fill11 = 0.387755
+  Fill12 = 0.387755
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+4 of 4 MIP starts provided solutions.
+MIP start 'm3' defined initial solution with objective -0.0051.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                           -0.0051       -9.4541              ---
+      0     0       -0.0239     1       -0.0051       -0.0239        1  368.42%
+      0     0       -0.0187     2       -0.0051    MIRcuts: 1        3  266.51%
+*     0+    0                           -0.0102       -0.0187            83.26%
+      0     0       -0.0177     4       -0.0102    MIRcuts: 1        4   73.46%
+      0     0       -0.0171     2       -0.0102    MIRcuts: 1        7   67.88%
+      0     0       -0.0170     4       -0.0102    MIRcuts: 1        9   67.04%
+      0     0       -0.0170     5       -0.0102    MIRcuts: 1       10   67.00%
+      0     0       -0.0154     5       -0.0102    MIRcuts: 1       12   50.92%
+      0     0       -0.0153     6       -0.0102    MIRcuts: 2       14   50.06%
+      0     0       -0.0153     7       -0.0102    MIRcuts: 1       15   50.05%
+      0     0        cutoff             -0.0102       -0.0102       15    0.00%
+Elapsed time = 0.14 sec. (0.39 ticks, tree = 0.01 MB, solutions = 4)
+
+Mixed integer rounding cuts applied:  5
+
+Root node processing (before b&c):
+  Real time             =    0.14 sec. (0.40 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.14 sec. (0.40 ticks)
+
+Reduced cost is -0.0102041
+
+  Use0 = 0
+  Use1 = 0
+  Use2 = 1
+  Use3 = 0
+  Use4 = 0
+  Use5 = 0
+  Use6 = 0
+  Use7 = 2
+  Use8 = 0
+  Use9 = 0
+  Use10 = 0
+  Use11 = 0
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            72.972222
+
+Using 72.9409 rolls
+
+  Cut0 = 0.177273
+  Cut1 = 0
+  Cut2 = 0
+  Cut3 = 0
+  Cut4 = 0
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0
+  Cut11 = 0
+  Cut12 = 0
+  Cut13 = 0
+  Cut14 = 0
+  Cut15 = 0
+  Cut16 = 7
+  Cut17 = 0
+  Cut18 = 0
+  Cut19 = 4.21818
+  Cut20 = 0.563636
+  Cut21 = 0
+  Cut22 = 6
+  Cut23 = 0
+  Cut24 = 0
+  Cut25 = 0
+  Cut26 = 11.2182
+  Cut27 = 0
+  Cut28 = 0
+  Cut29 = 3.92727
+  Cut30 = 0.872727
+  Cut31 = 12
+  Cut32 = 13.7818
+  Cut33 = 2.29091
+  Cut34 = 7.03636
+  Cut35 = 3.85455
+
+  Fill0 = 0.25
+  Fill1 = 0.272727
+  Fill2 = 0.281818
+  Fill3 = 0.309091
+  Fill4 = 0.327273
+  Fill5 = 0.336364
+  Fill6 = 0.345455
+  Fill7 = 0.359091
+  Fill8 = 0.368182
+  Fill9 = 0.375
+  Fill10 = 0.381818
+  Fill11 = 0.381818
+  Fill12 = 0.390909
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+4 of 4 MIP starts provided solutions.
+MIP start 'm3' defined initial solution with objective -0.0045.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                           -0.0045       -9.4500              ---
+      0     0       -0.0145     1       -0.0045       -0.0145        1  218.13%
+      0     0       -0.0138     1       -0.0045    MIRcuts: 1        2  203.62%
+      0     0       -0.0137     3       -0.0045    MIRcuts: 1        3  201.72%
+      0     0       -0.0135     3       -0.0045    MIRcuts: 1        4  197.14%
+      0     0       -0.0124     2       -0.0045    MIRcuts: 1        6  173.68%
+      0     0       -0.0121     3       -0.0045    MIRcuts: 1        8  166.79%
+      0     0       -0.0121     4       -0.0045    MIRcuts: 1        9  166.37%
+      0     0       -0.0111     3       -0.0045    MIRcuts: 1       12  143.23%
+      0     0       -0.0107     4       -0.0045    MIRcuts: 1       13  136.16%
+      0     0       -0.0106     4       -0.0045    MIRcuts: 1       15  132.26%
+      0     0       -0.0105     6       -0.0045    MIRcuts: 1       16  131.48%
+      0     0        cutoff             -0.0045       -0.0045       16    0.00%
+Elapsed time = 0.14 sec. (0.46 ticks, tree = 0.01 MB, solutions = 3)
+
+Mixed integer rounding cuts applied:  4
+
+Root node processing (before b&c):
+  Real time             =    0.14 sec. (0.46 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.14 sec. (0.46 ticks)
+
+Reduced cost is -0.00454545
+
+  Use0 = 0
+  Use1 = 0
+  Use2 = 0
+  Use3 = 1
+  Use4 = 0
+  Use5 = 1
+  Use6 = 0
+  Use7 = 1
+  Use8 = 0
+  Use9 = 0
+  Use10 = 0
+  Use11 = 0
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            72.934783
+
+Using 72.9348 rolls
+
+  Cut0 = 0.195652
+  Cut1 = 0
+  Cut2 = 0
+  Cut3 = 0
+  Cut4 = 0
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0
+  Cut11 = 0
+  Cut12 = 0
+  Cut13 = 0
+  Cut14 = 0
+  Cut15 = 0
+  Cut16 = 7
+  Cut17 = 0
+  Cut18 = 0
+  Cut19 = 3.82609
+  Cut20 = 0
+  Cut21 = 0
+  Cut22 = 6
+  Cut23 = 0
+  Cut24 = 0
+  Cut25 = 0
+  Cut26 = 12.1739
+  Cut27 = 0
+  Cut28 = 0
+  Cut29 = 4.95652
+  Cut30 = 0.652174
+  Cut31 = 12
+  Cut32 = 12.8261
+  Cut33 = 2.21739
+  Cut34 = 6.52174
+  Cut35 = 3.21739
+  Cut36 = 1.34783
+
+  Fill0 = 0.25
+  Fill1 = 0.271739
+  Fill2 = 0.282609
+  Fill3 = 0.304348
+  Fill4 = 0.326087
+  Fill5 = 0.336957
+  Fill6 = 0.347826
+  Fill7 = 0.358696
+  Fill8 = 0.358696
+  Fill9 = 0.375
+  Fill10 = 0.380435
+  Fill11 = 0.391304
+  Fill12 = 0.391304
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+3 of 3 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 0.0000.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.01 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000       -9.4348              ---
+      0     0       -0.0181     1        0.0000       -0.0181        0     ---
+      0     0       -0.0157     3        0.0000    MIRcuts: 1        2     ---
+      0     0       -0.0154     4        0.0000       Cuts: 2        4     ---
+      0     0       -0.0147     2        0.0000    MIRcuts: 1        6     ---
+      0     0       -0.0124     2        0.0000    MIRcuts: 1       10     ---
+      0     0       -0.0124     5        0.0000    MIRcuts: 1       11     ---
+      0     0       -0.0124     3        0.0000    MIRcuts: 1       13     ---
+*     0+    0                           -0.0109       -0.0124            14.13%
+      0     0        cutoff             -0.0109       -0.0109       13    0.00%
+Elapsed time = 0.14 sec. (0.28 ticks, tree = 0.01 MB, solutions = 3)
+
+Mixed integer rounding cuts applied:  4
+
+Root node processing (before b&c):
+  Real time             =    0.14 sec. (0.28 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.14 sec. (0.28 ticks)
+
+Reduced cost is -0.0108696
+
+  Use0 = 0
+  Use1 = 0
+  Use2 = 1
+  Use3 = 0
+  Use4 = 0
+  Use5 = 1
+  Use6 = 0
+  Use7 = 0
+  Use8 = 0
+  Use9 = 0
+  Use10 = 0
+  Use11 = 1
+  Use12 = 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            72.916667
+
+Using 72.9167 rolls
+
+  Cut0 = 0.25
+  Cut1 = 0
+  Cut2 = 0
+  Cut3 = 0
+  Cut4 = 0
+  Cut5 = 0
+  Cut6 = 0
+  Cut7 = 0
+  Cut8 = 0
+  Cut9 = 0
+  Cut10 = 0
+  Cut11 = 0
+  Cut12 = 0
+  Cut13 = 0
+  Cut14 = 0
+  Cut15 = 0
+  Cut16 = 7
+  Cut17 = 0
+  Cut18 = 0
+  Cut19 = 1
+  Cut20 = 0
+  Cut21 = 0
+  Cut22 = 4.33333
+  Cut23 = 0
+  Cut24 = 0
+  Cut25 = 0
+  Cut26 = 15
+  Cut27 = 0
+  Cut28 = 0
+  Cut29 = 8
+  Cut30 = 0
+  Cut31 = 12
+  Cut32 = 10
+  Cut33 = 2
+  Cut34 = 5
+  Cut35 = 1.33333
+  Cut36 = 5.33333
+  Cut37 = 1.66667
+
+  Fill0 = 0.25
+  Fill1 = 0.277778
+  Fill2 = 0.277778
+  Fill3 = 0.305556
+  Fill4 = 0.333333
+  Fill5 = 0.333333
+  Fill6 = 0.333333
+  Fill7 = 0.361111
+  Fill8 = 0.361111
+  Fill9 = 0.375
+  Fill10 = 0.388889
+  Fill11 = 0.388889
+  Fill12 = 0.388889
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+3 of 3 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 0.0000.
+Tried aggregator 1 time.
+MIP Presolve added 1 rows and 1 columns.
+MIP Presolve modified 1 coefficients.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.02 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 1 rows and 1 columns.
+MIP Presolve added 1 rows and 1 columns.
+Reduced MIP has 2 rows, 14 columns, and 16 nonzeros.
+Reduced MIP has 0 binaries, 14 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.03 sec. (0.01 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000       -9.4444              ---
+      0     0       -0.0256     1        0.0000       -0.0256        1     ---
+      0     0       -0.0222     3        0.0000    MIRcuts: 1        3     ---
+      0     0       -0.0222     2        0.0000    MIRcuts: 1        4     ---
+      0     0       -0.0222     4        0.0000    MIRcuts: 1        5     ---
+      0     0        cutoff              0.0000        0.0000        5    0.00%
+Elapsed time = 0.11 sec. (0.19 ticks, tree = 0.01 MB, solutions = 2)
+
+Mixed integer rounding cuts applied:  2
+
+Root node processing (before b&c):
+  Real time             =    0.13 sec. (0.19 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.13 sec. (0.19 ticks)
+
+Reduced cost is 0
+
+CPXPARAM_MIP_Strategy_CallbackReducedLP          0
+Found incumbent of value 94.000000 after 0.00 sec. (0.00 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.00 sec. (0.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                           94.0000        0.0000           100.00%
+      0     0       72.9167     5       94.0000       72.9167        0   22.43%
+*     0+    0                           74.0000       72.9167             1.46%
+*     0     0      integral     0       73.0000       73.0000        1    0.00%
+Elapsed time = 0.06 sec. (0.20 ticks, tree = 0.01 MB, solutions = 3)
+
+Root node processing (before b&c):
+  Real time             =    0.06 sec. (0.20 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.06 sec. (0.20 ticks)
+
+Best integer solution uses 73 rolls
+
+  Cut0 = 0
+  Cut1 = -0
+  Cut2 = -0
+  Cut3 = 1
+  Cut4 = -0
+  Cut5 = -0
+  Cut6 = -0
+  Cut7 = -0
+  Cut8 = -0
+  Cut9 = -0
+  Cut10 = -0
+  Cut11 = -0
+  Cut12 = -0
+  Cut13 = -0
+  Cut14 = -0
+  Cut15 = -0
+  Cut16 = 7
+  Cut17 = -0
+  Cut18 = -0
+  Cut19 = 2
+  Cut20 = -0
+  Cut21 = -0
+  Cut22 = 4
+  Cut23 = -0
+  Cut24 = -0
+  Cut25 = -0
+  Cut26 = 14
+  Cut27 = -0
+  Cut28 = -0
+  Cut29 = 6
+  Cut30 = -0
+  Cut31 = 12
+  Cut32 = 11
+  Cut33 = 3
+  Cut34 = 6
+  Cut35 = 2
+  Cut36 = 3
+  Cut37 = 2
+
+C:\Users\Devpriyo\Documents\Visual Studio 2013\Projects\ConsoleApplication1\x64\Debug>
